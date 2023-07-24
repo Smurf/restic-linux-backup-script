@@ -1,0 +1,55 @@
+/tmp
+/home/**/.cache
+/home/**/google-chrome
+
+/dev
+/bin
+/usr/bin
+/sbin
+/usr/sbin
+/var
+/mnt
+/proc
+/lost+found
+/media
+/sys
+
+# VMWare Stuff
+*.vmdk
+*.vmem
+*.vmss
+*.vmsn
+*.vmsd
+*.vmx
+nvram
+
+# Admin/Developer Stuff
+.git
+*.img
+*.iso
+
+# Gdrive stuff
+Insync
+gdrive
+
+# Lastpass Stuff
+.lpass
+lpass
+
+# NPM stuff
+.npm
+node_modules
+
+# Home cache 
+Slack
+.cargo
+.ansible
+.dbus
+.docker
+.java
+.local/lib
+.local/share
+.local/share/Trash
+.local/share/containers
+.local/share/flatpak
+.mozilla
